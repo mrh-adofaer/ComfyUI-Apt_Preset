@@ -21,7 +21,6 @@ import random
 import folder_paths
 
 import copy
-from pymatting import estimate_alpha_cf, estimate_foreground_ml, fix_trimap
 import ast
 from nodes import CLIPTextEncode, common_ksampler,InpaintModelConditioning
 

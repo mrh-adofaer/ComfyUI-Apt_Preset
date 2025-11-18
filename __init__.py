@@ -1,7 +1,5 @@
 __all__ = ["NODE_CLASS_MAPPINGS", "NODE_DISPLAY_NAME_MAPPINGS", ]
 
-import sys; print(sys.executable)
-
 from .NodeBasic.C_image import Image_solo_crop, Image_solo_stitch, Mask_simple_adjust
 
 #-load------------------------------------------#
