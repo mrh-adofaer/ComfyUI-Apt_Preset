@@ -1,6 +1,6 @@
 __all__ = ["NODE_CLASS_MAPPINGS", "NODE_DISPLAY_NAME_MAPPINGS", ]
 
-from .NodeBasic.C_image import Image_solo_crop, Image_solo_stitch, Mask_simple_adjust
+from .NodeBasic.C_image1 import Image_solo_crop, Image_solo_stitch, Mask_simple_adjust
 
 #-load------------------------------------------#
 
